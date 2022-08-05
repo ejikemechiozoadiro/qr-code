@@ -13,7 +13,7 @@ body{
 }
 
 main{
-    width: 25rem;
+    width: 35rem;
     background: hsl(0, 0%, 100%);
     padding: 1.6rem;
     border-radius: 20px;
@@ -22,8 +22,8 @@ main{
 }
 
 img{
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
     border-radius: 10px;
 }
 
